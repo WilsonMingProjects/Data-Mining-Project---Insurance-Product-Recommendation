@@ -1,1 +1,1 @@
-# Data-Mining-Project---Insurance-Product-Recommendation
+# Data Mining Project: Insurance-Product-Recommendation
